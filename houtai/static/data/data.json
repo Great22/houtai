@@ -1,0 +1,90 @@
+[
+    {
+        "authName": "用户管理",
+        "id": 100,
+        "children": {
+            "id": 110,
+            "authName": "用户列表",
+            "icon": "users"
+        },
+        "icon": "users"
+    },
+    {
+        "authName": "权限管理",
+        "id": 101,
+        "children": [
+            {
+                "id": 120,
+                "authName": "用户列表1",
+                "icon": "rights"
+            },
+            {
+                "id": 121,
+                "authName": "用户列表2",
+                "icon": "rights"
+            },
+            {
+                "id": 122,
+                "authName": "用户列表3",
+                "icon": "rights"
+            }
+        ],
+        "icon": "rights"
+    },
+    {
+        "authName": "商品管理",
+        "id": 102,
+        "children": [
+            {
+                "id": 130,
+                "authName": "商品列表",
+                "icon": "goods"
+            },
+            {
+                "id": 131,
+                "authName": "商品列表1",
+                "icon": "goods"
+            }
+        ],
+        "icon": "goods"
+    },
+    {
+        "authName": "订单管理",
+        "id": 103,
+        "children": [
+            {
+                "id": 140,
+                "authName": "订单列表",
+                "icon": "orders"
+            },
+            {
+                "id": 141,
+                "authName": "订单列表1",
+                "icon": "orders"
+            },
+            {
+                "id": 142,
+                "authName": "订单列表",
+                "icon": "orders"
+            },
+            {
+                "id": 143,
+                "authName": "订单列表1",
+                "icon": "orders"
+            }
+        ],
+        "icon": "orders"
+    },
+    {
+        "authName": "数据统计",
+        "id": 104,
+        "children": [
+            {
+                "id": 150,
+                "authName": "统计列表",
+                "icon": "reports"
+            }
+        ],
+        "icon": "reports"
+    }
+]
